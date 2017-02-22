@@ -3,7 +3,9 @@ Intelligente Textbasierte Antwort Maschiene- Dieses Programm ist ein Chatbot, de
 -ITAM ist auf deutsch, wer mir bei der Übersetzung in andere Sprachen helfen will, 
 Um das Programm zum Laufen zu bringen, folgendes Tun:
 -----------------------------------------------------
+-----------------------------------------------------
 Python herunterladen+Installieren(diesen Schritt kann man weglassen, wenn man Python schon hat.)
+-------------------------------------------------------------------------------------------------------
 1. Auf die Seite https://www.python.org/ gehen.
 2. Downloads klicken
 3. Die aktuelle Version herunterladen.
